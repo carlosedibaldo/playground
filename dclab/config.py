@@ -4,7 +4,8 @@ CSV_PATHS = {
     "stops": f"{ROOT_DIR}/csv/stops_2026.csv",
     "income": f"{ROOT_DIR}/csv/IncomeData.csv",
     "courts": f"{ROOT_DIR}/csv/CourtsData1.csv",
-    "appraisal": f"{ROOT_DIR}/csv/RESIDENTIAL_CAMA.csv"
+    "appraisal": f"{ROOT_DIR}/csv/RESIDENTIAL_CAMA.csv",
+    "population": f"{ROOT_DIR}/csv/fred_dc_population.csv",
 }
 
 GEOJSON_PATHS = {
