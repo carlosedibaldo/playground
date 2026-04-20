@@ -1,4 +1,5 @@
-ROOT_DIR = "/Users/carlossilva/Downloads/dclab-data/"
+# NOTE: ROOT_DIR empty to anonymize submission
+ROOT_DIR = ""
 CSV_PATHS = {
     "crime": f"{ROOT_DIR}/csv/crime_2026.csv",
     "stops": f"{ROOT_DIR}/csv/stops_2026.csv",
